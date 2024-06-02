@@ -16,6 +16,7 @@ Certainly, here's the comparison table with examples focusing only on Google Clo
 | **Use Cases**   | Custom environments, legacy applications, development/testing.      | Rapid development, scalable applications, microservices architectures. |
 
 ![[Pasted image 20240602094449.png]]![[Pasted image 20240602094510.png]]
+<img src="https://github.com/Its-alida/Google-Cloud-DevOps-learning-path/blob/main/Pasted%20image%2020240602094449.png">
 
 ## As cloud computing has evolved, the momentum has shifted toward managed infrastructure and managed services :
 
@@ -50,6 +51,7 @@ application that customers can access and use.
 internet by end users
 
 ![[Pasted image 20240602095639.png]]
+<img src="https://github.com/Its-alida/Google-Cloud-DevOps-learning-path/blob/main/Pasted%20image%2020240602095639.png">
 
 Popular Google applications such as Gmail, Docs, and Drive, that are a part of Google
 Workspace, are all examples of SaaS.
@@ -59,6 +61,7 @@ Workspace, are all examples of SaaS.
 
 - https://www.capgemini.com/insights/expert-perspectives/optimizing-your-cloud-roi-with-serverless-architecture/
 	![[Pasted image 20240602100248.png]]
+	<img src="https://github.com/Its-alida/Google-Cloud-DevOps-learning-path/blob/main/Pasted%20image%2020240602100248.png">
 - An example of serverless computing is Amazon Lambda -  Function as a Service (FaaS)
 	- ![[Pasted image 20240602100532.png]]
 	- https://www.datadoghq.com/knowledge-center/serverless-architecture/
