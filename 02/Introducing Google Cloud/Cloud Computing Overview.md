@@ -138,8 +138,8 @@ Sure, let's break it down into simpler terms.
    - Hybrid cloud solutions integrate on-premises infrastructure with public and private clouds.
    - Multi-cloud strategies involve using multiple cloud providers to avoid vendor lock-in and improve reliability.
 
-[[Google-Cloud-DevOps-learning-path/02/Introducing Google Cloud/Pasted image 20240602092729.png]]
-
+![[Pasted image 20240602092729.png]]
+<img src="https://github.com/Its-alida/Google-Cloud-DevOps-learning-path/blob/main/Pasted%20image%2020240602092729.png">
 
 - **1990s**: **Colocation** – Renting space in third-party data centers.
 - **2000s**: **Virtualized Data Centers** – Running multiple virtual servers on a single physical server; rise of cloud computing.
